@@ -1,0 +1,49 @@
+You must create, on your own, a working mobile app that addresses some real
+world problem.
+For a full score your program MUST INCLUDE at least:
+1) 1 COLLECTION TYPE (LIST) that is used in more than one location
+2) 1 ALGORITHM WITH:
+a) SEQUENCING (MULTIPLE LINES OF CODE)
+b) SELECTION (IF/ELSE)
+c) ITERATION (LOOP)
+3) 1 PROCEDURE with a parameter (can be your algorithm)
+VIDEO:
+You must create a maximum 60 second video with no narrative sound (you can
+make subtitles if you want) (you can include sounds your app makes) showing the
+following:
+● Input
+● Program Functionality
+● Output
+
+WRITTEN RESPONSE FORMATTING:
+Your graders are expected to follow the rubric. That being said, your graders are
+human and will be grading about 100 papers a day (I know because I am a grader).
+So you need to make sure that your program STANDS OUT in a good way. One
+way of doing this is to make it EASIER for the grader.
+Row 1:
+● Bold the words “overall purpose” of the program
+● Bold the words “functionality”
+● Bold the words “input” and “output”
+
+Row 2:
+● Make sure your screenshots only show the collection type (list) and where
+the list is used in the code
+● Bold the name of the list you use when you are describing it in your written
+response
+● Bold the data contained in the list.
+Row 3:
+● Bold the words “manage[d] complexity”
+● Bold the words “could not be written” or “this code would be written
+differently, without using this list”
+Row 4:
+● Make sure your screenshots only show the procedure and where the
+procedure is called in the code
+● Bold the words “contributes to the overall functionality”
+Row 5:
+● Make sure your screenshot shows sequencing, selection and iteration
+● Bold the words that show the beginning of each step of recreating your
+algorithm i.e. “First”, “Step 1”, “Next” etc...
+Row 6:
+● Make sure your explanation shows two different calls of the procedure
+● Bold the different conditions
+● Bold your results
